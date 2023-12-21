@@ -1,2 +1,2 @@
 # LeetCode
-this repo is decitacted to all my leetcode solutions and atemps might find some from [NeetCode](https://neetcode.io/)
+this repo is dedicated to all my leetcode solutions and attempts might find some from [NeetCode](https://neetcode.io/)
