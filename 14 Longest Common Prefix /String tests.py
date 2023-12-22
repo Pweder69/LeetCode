@@ -1,3 +1,4 @@
-String = "hello"
+List = ["h", "d", "c"]
 
-print(str.__contains__(String, ""))
+for char in List[2]:
+    print(char)
